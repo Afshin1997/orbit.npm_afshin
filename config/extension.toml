@@ -4,10 +4,10 @@
 version = "0.1.0"
 
 # Description
-title = "Extension Template"  # TODO: Please adapt to your title.
-description="Extension Template for Orbit"  #TODO: Please adapt to your description.
-repository = "https://github.com/isaac-orbit/orbit.ext_template.git"  # TODO: Please adapt to your repository.
-keywords = ["extension", "template", "orbit"]  # TODO: Please adapt to your keywords.
+title = "Non-Prehensile Manipulation"  # TODO: Please adapt to your title.
+description="Non-Prehensile Manipulation for Orbit"  #TODO: Please adapt to your description.
+repository = "https://github.com/Afshin1997/orbit.npm_afshin.git"  # TODO: Please adapt to your repository.
+keywords = ["Non-Prehensile", "Manipulation", "orbit"]  # TODO: Please adapt to your keywords.
 category = "orbit"
 readme  = "README.md"
 
